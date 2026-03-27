@@ -1,0 +1,13 @@
+streamlit
+google-generativeai
+groq
+python-dotenv
+pypdf
+python-pptx
+langchain
+langchain-community
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+langchain-huggingface
+duckduckgo-search
